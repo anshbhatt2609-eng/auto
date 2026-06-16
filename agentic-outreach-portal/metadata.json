@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Outreach Portal",
+  "description": "An AI-powered multi-channel automation tool to connect Instagram, Gmail, and WhatsApp, analyze client sheets for key relationship gaps, execute personalized outreaches under strictly managed quotas, automatically filter active leads, and dynamically learn conversational patterns through human-in-the-loop WhatsApp response feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
